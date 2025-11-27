@@ -1,0 +1,652 @@
+[
+    {
+        "id": "90a361bc-ad12-4638-b384-14736bf0a5e0",
+        "text": "Is it going to rain all day? #MumbaiRains",
+        "user": "@traffic_woes",
+        "timestamp": "14m ago",
+        "post_date": "Sat, 14 Jun 2025 06:13:36 GMT",
+        "metrics": {
+            "likes": 6,
+            "retweets": 5
+        },
+        "image_url": null,
+        "is_crisis_ground_truth": false
+    },
+    {
+        "id": "e879b34e-9f4a-4dee-819b-0d253a576e44",
+        "text": "Best place for pav bhaji in Dadar? Suggestions pls.",
+        "user": "@sneha_k",
+        "timestamp": "47m ago",
+        "post_date": "Sat, 07 Jun 2025 11:13:36 GMT",
+        "metrics": {
+            "likes": 47,
+            "retweets": 5
+        },
+        "image_url": null,
+        "is_crisis_ground_truth": false
+    },
+    {
+        "id": "ac6a55d5-5399-4245-9e7f-001725e86cb6",
+        "text": "Looking for a flatmate in Andheri. DM if interested.",
+        "user": "@sneha_k",
+        "timestamp": "60m ago",
+        "post_date": "Sun, 13 Jul 2025 07:33:54 GMT",
+        "metrics": {
+            "likes": 41,
+            "retweets": 5
+        },
+        "image_url": null,
+        "is_crisis_ground_truth": false
+    },
+    {
+        "id": "5b83448c-731f-41c9-b140-2c01f553d5c5",
+        "text": "Auto driver refused to go to Bandra. Standard story.",
+        "user": "@priya_sharma",
+        "timestamp": "53m ago",
+        "post_date": "Sun, 08 Jun 2025 15:43:13 GMT",
+        "metrics": {
+            "likes": 32,
+            "retweets": 1
+        },
+        "image_url": null,
+        "is_crisis_ground_truth": false
+    },
+    {
+        "id": "0fbdd753-d655-4c75-b2a9-725866a34704",
+        "text": "Guys, the dam burst news is spreading like fire. Is it legit?",
+        "user": "@chai_lover",
+        "timestamp": "54m ago",
+        "post_date": "Tue, 15 Jul 2025 12:27:29 GMT",
+        "metrics": {
+            "likes": 4968,
+            "retweets": 699
+        },
+        "image_url": null,
+        "is_crisis_ground_truth": true
+    },
+    {
+        "id": "49502d8b-1170-42c6-8af4-34f73368bc24",
+        "text": "Auto driver refused to go to Bandra. Standard story.",
+        "user": "@student_life",
+        "timestamp": "36m ago",
+        "post_date": "Fri, 26 Sep 2025 16:14:01 GMT",
+        "metrics": {
+            "likes": 48,
+            "retweets": 5
+        },
+        "image_url": null,
+        "is_crisis_ground_truth": false
+    },
+    {
+        "id": "545f8612-67ff-4f54-9892-baa7758f12a3",
+        "text": "Best place for pav bhaji in Dadar? Suggestions pls.",
+        "user": "@local_train_hero",
+        "timestamp": "31m ago",
+        "post_date": "Sun, 07 Sep 2025 06:12:24 GMT",
+        "metrics": {
+            "likes": 26,
+            "retweets": 2
+        },
+        "image_url": null,
+        "is_crisis_ground_truth": false
+    },
+    {
+        "id": "b323a26d-c8f4-4bc0-b7bd-da64dacca7f8",
+        "text": "Best place for pav bhaji in Dadar? Suggestions pls.",
+        "user": "@tech_guru_raj",
+        "timestamp": "3m ago",
+        "post_date": "Tue, 14 Oct 2025 07:21:28 GMT",
+        "metrics": {
+            "likes": 23,
+            "retweets": 5
+        },
+        "image_url": null,
+        "is_crisis_ground_truth": false
+    },
+    {
+        "id": "c9dc3bc1-d26c-4dde-a6c3-9188e056a9a1",
+        "text": "Chai is not a drink, it's an emotion. \u2615",
+        "user": "@bollywood_buzz",
+        "timestamp": "7m ago",
+        "post_date": "Tue, 28 Oct 2025 11:22:31 GMT",
+        "metrics": {
+            "likes": 25,
+            "retweets": 3
+        },
+        "image_url": null,
+        "is_crisis_ground_truth": false
+    },
+    {
+        "id": "b8911ad5-1244-494d-bce9-1d68d4f1baf4",
+        "text": "Water level is neck deep in Kurla! We are stuck on the first floor.",
+        "user": "@mumbaikar_joe",
+        "timestamp": "50m ago",
+        "post_date": "Sat, 04 Oct 2025 17:00:12 GMT",
+        "metrics": {
+            "likes": 4292,
+            "retweets": 519
+        },
+        "image_url": null,
+        "is_crisis_ground_truth": true
+    },
+    {
+        "id": "eb19197f-a824-4849-80fd-f07c6ef883a5",
+        "text": "Is it going to rain all day? #MumbaiRains",
+        "user": "@chai_lover",
+        "timestamp": "36m ago",
+        "post_date": "Thu, 03 Jul 2025 04:56:10 GMT",
+        "metrics": {
+            "likes": 5,
+            "retweets": 3
+        },
+        "image_url": null,
+        "is_crisis_ground_truth": false
+    },
+    {
+        "id": "d13ce058-8662-48f9-b606-46fab91dd2bf",
+        "text": "Local trains are delayed by 10 mins. Typical.",
+        "user": "@tech_guru_raj",
+        "timestamp": "49m ago",
+        "post_date": "Thu, 25 Sep 2025 14:23:25 GMT",
+        "metrics": {
+            "likes": 40,
+            "retweets": 5
+        },
+        "image_url": null,
+        "is_crisis_ground_truth": false
+    },
+    {
+        "id": "c2dc3aa4-6d31-4dbb-80ec-73cde81b5954",
+        "text": "Just finished my assignment. So relieved.",
+        "user": "@movie_buff_22",
+        "timestamp": "4m ago",
+        "post_date": "Thu, 04 Sep 2025 07:51:15 GMT",
+        "metrics": {
+            "likes": 46,
+            "retweets": 3
+        },
+        "image_url": null,
+        "is_crisis_ground_truth": false
+    },
+    {
+        "id": "814e71c0-a4cb-4f40-90c3-4d7e9686c37a",
+        "text": "Watching the match with chai and pakodas. Perfect Sunday.",
+        "user": "@ipl_fanatic",
+        "timestamp": "26m ago",
+        "post_date": "Tue, 14 Oct 2025 12:35:55 GMT",
+        "metrics": {
+            "likes": 29,
+            "retweets": 3
+        },
+        "image_url": null,
+        "is_crisis_ground_truth": false
+    },
+    {
+        "id": "ecef0d9e-37eb-4dee-bace-28902659b6b9",
+        "text": "Rescue boats needed in Milan Subway area immediately!",
+        "user": "@finance_wiz",
+        "timestamp": "42m ago",
+        "post_date": "Wed, 09 Jul 2025 02:41:37 GMT",
+        "metrics": {
+            "likes": 1761,
+            "retweets": 1556
+        },
+        "image_url": null,
+        "is_crisis_ground_truth": true
+    },
+    {
+        "id": "0d039bad-d40c-4950-b2d2-313e008a461e",
+        "text": "Why is there so much traffic at 2 PM? #MumbaiTraffic",
+        "user": "@chai_lover",
+        "timestamp": "46m ago",
+        "post_date": "Thu, 17 Jul 2025 09:43:32 GMT",
+        "metrics": {
+            "likes": 4,
+            "retweets": 3
+        },
+        "image_url": null,
+        "is_crisis_ground_truth": false
+    },
+    {
+        "id": "46295691-36a4-43e6-a067-8d08941b9166",
+        "text": "What a catch by Jadeja! Unbelievable! \ud83c\udfcf",
+        "user": "@traffic_woes",
+        "timestamp": "28m ago",
+        "post_date": "Wed, 25 Jun 2025 04:59:54 GMT",
+        "metrics": {
+            "likes": 27,
+            "retweets": 1
+        },
+        "image_url": null,
+        "is_crisis_ground_truth": false
+    },
+    {
+        "id": "b8b3223d-1080-4cbb-a103-3b28139d29ab",
+        "text": "Who is winning the Filmfare award this year?",
+        "user": "@mumbaikar_joe",
+        "timestamp": "1m ago",
+        "post_date": "Sat, 02 Aug 2025 22:17:56 GMT",
+        "metrics": {
+            "likes": 4,
+            "retweets": 3
+        },
+        "image_url": null,
+        "is_crisis_ground_truth": false
+    },
+    {
+        "id": "27c95fa6-c922-4f81-b0d3-00adff4030c2",
+        "text": "Local trains are delayed by 10 mins. Typical.",
+        "user": "@mumbai_foodie",
+        "timestamp": "38m ago",
+        "post_date": "Sun, 28 Sep 2025 14:33:42 GMT",
+        "metrics": {
+            "likes": 20,
+            "retweets": 2
+        },
+        "image_url": null,
+        "is_crisis_ground_truth": false
+    },
+    {
+        "id": "f26f8a15-00d8-4080-81cd-bcee6f09a463",
+        "text": "Emergency numbers are busy. What to do? #MumbaiEmergency",
+        "user": "@city_lights",
+        "timestamp": "6m ago",
+        "post_date": "Sun, 26 Oct 2025 08:26:15 GMT",
+        "metrics": {
+            "likes": 3407,
+            "retweets": 1046
+        },
+        "image_url": null,
+        "is_crisis_ground_truth": true
+    },
+    {
+        "id": "aa82a3e4-fb36-42b2-87a6-ee755ec1fc19",
+        "text": "Craving butter chicken and naan right now.",
+        "user": "@mumbaikar_joe",
+        "timestamp": "30m ago",
+        "post_date": "Mon, 22 Sep 2025 23:38:02 GMT",
+        "metrics": {
+            "likes": 33,
+            "retweets": 5
+        },
+        "image_url": null,
+        "is_crisis_ground_truth": false
+    },
+    {
+        "id": "c5b10117-62a8-4314-885a-3b2a81b99030",
+        "text": "It's raining a bit, hope it doesn't spoil my plans.",
+        "user": "@bollywood_buzz",
+        "timestamp": "51m ago",
+        "post_date": "Wed, 03 Sep 2025 11:23:44 GMT",
+        "metrics": {
+            "likes": 30,
+            "retweets": 1
+        },
+        "image_url": null,
+        "is_crisis_ground_truth": false
+    },
+    {
+        "id": "385cb44d-939c-46b0-a5c1-621c2d10b863",
+        "text": "Monday blues hitting hard.",
+        "user": "@student_life",
+        "timestamp": "5m ago",
+        "post_date": "Tue, 21 Oct 2025 01:20:08 GMT",
+        "metrics": {
+            "likes": 20,
+            "retweets": 1
+        },
+        "image_url": null,
+        "is_crisis_ground_truth": false
+    },
+    {
+        "id": "b2c7b7cd-1f7a-4610-8b3c-61ecbe289082",
+        "text": "Who is winning the Filmfare award this year?",
+        "user": "@ipl_fanatic",
+        "timestamp": "44m ago",
+        "post_date": "Mon, 15 Sep 2025 01:13:12 GMT",
+        "metrics": {
+            "likes": 18,
+            "retweets": 4
+        },
+        "image_url": null,
+        "is_crisis_ground_truth": false
+    },
+    {
+        "id": "cef0e911-861d-43e0-a7d9-d5fb00ea98d5",
+        "text": "Electricity cut off in our area for 3 hours. Mobile battery dying.",
+        "user": "@priya_sharma",
+        "timestamp": "38m ago",
+        "post_date": "Wed, 22 Oct 2025 00:51:46 GMT",
+        "metrics": {
+            "likes": 3987,
+            "retweets": 547
+        },
+        "image_url": null,
+        "is_crisis_ground_truth": true
+    },
+    {
+        "id": "599a8f7a-4ad9-4061-9e99-0d12e5a3e9b7",
+        "text": "Bollywood music these days is just remixes. Miss the 90s.",
+        "user": "@priya_sharma",
+        "timestamp": "29m ago",
+        "post_date": "Mon, 25 Aug 2025 09:40:26 GMT",
+        "metrics": {
+            "likes": 23,
+            "retweets": 0
+        },
+        "image_url": null,
+        "is_crisis_ground_truth": false
+    },
+    {
+        "id": "75725887-d801-43d0-8855-209add0a2a4b",
+        "text": "What a catch by Jadeja! Unbelievable! \ud83c\udfcf",
+        "user": "@sneha_k",
+        "timestamp": "43m ago",
+        "post_date": "Mon, 20 Oct 2025 22:33:08 GMT",
+        "metrics": {
+            "likes": 14,
+            "retweets": 1
+        },
+        "image_url": null,
+        "is_crisis_ground_truth": false
+    },
+    {
+        "id": "cbf9c373-20ef-4c4c-8355-f3639630e51b",
+        "text": "Chai is not a drink, it's an emotion. \u2615",
+        "user": "@ipl_fanatic",
+        "timestamp": "6m ago",
+        "post_date": "Sun, 05 Oct 2025 20:13:24 GMT",
+        "metrics": {
+            "likes": 48,
+            "retweets": 3
+        },
+        "image_url": null,
+        "is_crisis_ground_truth": false
+    },
+    {
+        "id": "eafa737b-f61b-4038-9a7c-aa06a77fec82",
+        "text": "Anyone up for a game of Valorant?",
+        "user": "@local_train_hero",
+        "timestamp": "21m ago",
+        "post_date": "Tue, 22 Jul 2025 13:20:00 GMT",
+        "metrics": {
+            "likes": 36,
+            "retweets": 3
+        },
+        "image_url": null,
+        "is_crisis_ground_truth": false
+    },
+    {
+        "id": "dcdd96b3-8980-4394-b58b-e050935749ee",
+        "text": "The dam has definitely cracked, I saw it on TV! (It was a movie clip)",
+        "user": "@bollywood_buzz",
+        "timestamp": "45m ago",
+        "post_date": "Sun, 03 Aug 2025 08:23:04 GMT",
+        "metrics": {
+            "likes": 471,
+            "retweets": 474
+        },
+        "image_url": null,
+        "is_crisis_ground_truth": true
+    },
+    {
+        "id": "0d49405f-03e0-4dee-ab91-7227dc55c92b",
+        "text": "Love the smell of wet earth. Petrichor \u2764\ufe0f",
+        "user": "@movie_buff_22",
+        "timestamp": "20m ago",
+        "post_date": "Tue, 02 Sep 2025 18:32:30 GMT",
+        "metrics": {
+            "likes": 1,
+            "retweets": 2
+        },
+        "image_url": null,
+        "is_crisis_ground_truth": false
+    },
+    {
+        "id": "2eb404c9-0769-4565-b437-341c81e2b798",
+        "text": "What a catch by Jadeja! Unbelievable! \ud83c\udfcf",
+        "user": "@NewsMumbai",
+        "timestamp": "16m ago",
+        "post_date": "Wed, 01 Oct 2025 21:48:13 GMT",
+        "metrics": {
+            "likes": 43,
+            "retweets": 2
+        },
+        "image_url": null,
+        "is_crisis_ground_truth": false
+    },
+    {
+        "id": "9ee2163e-809b-4f2b-8dda-6b2e5d2f4da7",
+        "text": "Nothing beats a hot Vada Pav in this weather. \ud83d\ude0b #MumbaiFood",
+        "user": "@coding_ninja",
+        "timestamp": "15m ago",
+        "post_date": "Wed, 09 Jul 2025 05:24:42 GMT",
+        "metrics": {
+            "likes": 7,
+            "retweets": 1
+        },
+        "image_url": null,
+        "is_crisis_ground_truth": false
+    },
+    {
+        "id": "d234c0d4-63d2-494c-8c40-cfa9bc09bb4d",
+        "text": "Deepika's look in the new song is stunning. \ud83d\ude0d",
+        "user": "@chai_lover",
+        "timestamp": "42m ago",
+        "post_date": "Mon, 13 Oct 2025 15:06:31 GMT",
+        "metrics": {
+            "likes": 12,
+            "retweets": 4
+        },
+        "image_url": null,
+        "is_crisis_ground_truth": false
+    },
+    {
+        "id": "d7800983-747b-4e35-bef3-49ec65b46054",
+        "text": "PLEASE HELP. Grandparents stuck in ground floor flat in Kalina. DM for address.",
+        "user": "@tech_guru_raj",
+        "timestamp": "22m ago",
+        "post_date": "Thu, 11 Sep 2025 00:48:03 GMT",
+        "metrics": {
+            "likes": 2358,
+            "retweets": 141
+        },
+        "image_url": null,
+        "is_crisis_ground_truth": true
+    },
+    {
+        "id": "22cb6ef0-ec0c-45af-9759-066aed7ed745",
+        "text": "Watching the match with chai and pakodas. Perfect Sunday.",
+        "user": "@student_life",
+        "timestamp": "16m ago",
+        "post_date": "Fri, 12 Sep 2025 07:42:44 GMT",
+        "metrics": {
+            "likes": 1,
+            "retweets": 5
+        },
+        "image_url": null,
+        "is_crisis_ground_truth": false
+    },
+    {
+        "id": "02b82842-9b6f-4c57-af0b-c74d4def628a",
+        "text": "Local trains are delayed by 10 mins. Typical.",
+        "user": "@tech_guru_raj",
+        "timestamp": "15m ago",
+        "post_date": "Sun, 01 Jun 2025 07:02:33 GMT",
+        "metrics": {
+            "likes": 48,
+            "retweets": 2
+        },
+        "image_url": null,
+        "is_crisis_ground_truth": false
+    },
+    {
+        "id": "7f334434-8caa-4d2a-b37e-91660d5b67fb",
+        "text": "My cat is sleeping in the weirdest position. \ud83d\ude02",
+        "user": "@mumbai_foodie",
+        "timestamp": "11m ago",
+        "post_date": "Fri, 15 Aug 2025 05:07:53 GMT",
+        "metrics": {
+            "likes": 45,
+            "retweets": 1
+        },
+        "image_url": null,
+        "is_crisis_ground_truth": false
+    },
+    {
+        "id": "9662337f-cf20-4323-af63-5e134aeeb913",
+        "text": "Who is winning the Filmfare award this year?",
+        "user": "@NewsMumbai",
+        "timestamp": "34m ago",
+        "post_date": "Mon, 13 Oct 2025 02:09:30 GMT",
+        "metrics": {
+            "likes": 17,
+            "retweets": 1
+        },
+        "image_url": null,
+        "is_crisis_ground_truth": false
+    },
+    {
+        "id": "2546160d-ffa5-47f1-9ab4-44948fbf2def",
+        "text": "Do NOT believe the dam rumors! BMC has confirmed it's safe. #FakeNews",
+        "user": "@tech_guru_raj",
+        "timestamp": "48m ago",
+        "post_date": "Fri, 06 Jun 2025 04:42:39 GMT",
+        "metrics": {
+            "likes": 343,
+            "retweets": 1213
+        },
+        "image_url": null,
+        "is_crisis_ground_truth": true
+    },
+    {
+        "id": "dab7bee6-43dd-47f6-a820-f9be896cfbb6",
+        "text": "Stuck at Silk Board... oh wait, wrong city. Stuck at WEH! \ud83d\ude97",
+        "user": "@amit_patel_123",
+        "timestamp": "55m ago",
+        "post_date": "Sun, 10 Aug 2025 05:20:15 GMT",
+        "metrics": {
+            "likes": 23,
+            "retweets": 4
+        },
+        "image_url": null,
+        "is_crisis_ground_truth": false
+    },
+    {
+        "id": "735c5079-a7f0-40d0-a559-6f643f898018",
+        "text": "Best place for pav bhaji in Dadar? Suggestions pls.",
+        "user": "@traffic_woes",
+        "timestamp": "23m ago",
+        "post_date": "Sun, 01 Jun 2025 01:56:07 GMT",
+        "metrics": {
+            "likes": 21,
+            "retweets": 0
+        },
+        "image_url": null,
+        "is_crisis_ground_truth": false
+    },
+    {
+        "id": "76424298-5762-4a82-88cb-3579adfbc88b",
+        "text": "My mom made gajar ka halwa! Heaven.",
+        "user": "@finance_wiz",
+        "timestamp": "40m ago",
+        "post_date": "Sun, 07 Sep 2025 16:25:56 GMT",
+        "metrics": {
+            "likes": 2,
+            "retweets": 3
+        },
+        "image_url": null,
+        "is_crisis_ground_truth": false
+    },
+    {
+        "id": "6151f260-4420-41be-abf9-6ea0c1ad7918",
+        "text": "Auto driver refused to go to Bandra. Standard story.",
+        "user": "@local_train_hero",
+        "timestamp": "43m ago",
+        "post_date": "Fri, 03 Oct 2025 16:21:07 GMT",
+        "metrics": {
+            "likes": 8,
+            "retweets": 5
+        },
+        "image_url": null,
+        "is_crisis_ground_truth": false
+    },
+    {
+        "id": "d49a6723-f501-4f16-90da-cb0b6dcd129e",
+        "text": "Western Express Highway is a river now. Avoid at all costs.",
+        "user": "@finance_wiz",
+        "timestamp": "51m ago",
+        "post_date": "Tue, 12 Aug 2025 05:08:01 GMT",
+        "metrics": {
+            "likes": 2389,
+            "retweets": 153
+        },
+        "image_url": null,
+        "is_crisis_ground_truth": true
+    },
+    {
+        "id": "1b951b94-a29e-4f88-9867-4d2bfc4783c4",
+        "text": "Craving butter chicken and naan right now.",
+        "user": "@mumbaikar_joe",
+        "timestamp": "36m ago",
+        "post_date": "Thu, 05 Jun 2025 10:04:47 GMT",
+        "metrics": {
+            "likes": 50,
+            "retweets": 0
+        },
+        "image_url": null,
+        "is_crisis_ground_truth": false
+    },
+    {
+        "id": "153f5829-474d-4545-bc9f-e74ebcfe7e59",
+        "text": "Mumbai Indians need to change their bowling strategy. #MIvCSK",
+        "user": "@traffic_woes",
+        "timestamp": "55m ago",
+        "post_date": "Sat, 27 Sep 2025 04:05:04 GMT",
+        "metrics": {
+            "likes": 7,
+            "retweets": 5
+        },
+        "image_url": null,
+        "is_crisis_ground_truth": false
+    },
+    {
+        "id": "b8f50dff-578a-4c40-bb82-b36ef948af7d",
+        "text": "Just watched the new SRK movie. It's a blockbuster! #Pathaan",
+        "user": "@sneha_k",
+        "timestamp": "56m ago",
+        "post_date": "Mon, 02 Jun 2025 23:13:36 GMT",
+        "metrics": {
+            "likes": 27,
+            "retweets": 3
+        },
+        "image_url": null,
+        "is_crisis_ground_truth": false
+    },
+    {
+        "id": "bdfb0865-fdab-4a1d-972c-55a9d5bac04c",
+        "text": "Craving butter chicken and naan right now.",
+        "user": "@mumbai_foodie",
+        "timestamp": "14m ago",
+        "post_date": "Wed, 06 Aug 2025 03:20:39 GMT",
+        "metrics": {
+            "likes": 3,
+            "retweets": 5
+        },
+        "image_url": null,
+        "is_crisis_ground_truth": false
+    },
+    {
+        "id": "ea0bfe65-a9cc-4892-b0d1-a46a44cf7abd",
+        "text": "BREAKING: Dam burst in North Mumbai! Run for your lives! #DamBurst",
+        "user": "@local_train_hero",
+        "timestamp": "52m ago",
+        "post_date": "Thu, 03 Jul 2025 07:42:01 GMT",
+        "metrics": {
+            "likes": 566,
+            "retweets": 597
+        },
+        "image_url": null,
+        "is_crisis_ground_truth": true
+    }
+]

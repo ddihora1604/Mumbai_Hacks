@@ -4,9 +4,10 @@ from langgraph.graph import StateGraph, END
 from dotenv import load_dotenv
 
 # Import agent logic
-# We import the specific functions that define the logic for each step
 from Agents.monitor_agent import ingest_data, filter_content
 from Agents.cluster_agent import cluster_node
+from Agents.verifier_agent import verifier_agent_node
+from Agents.response_agent import response_agent_node
 
 # Load env vars
 load_dotenv()
@@ -18,7 +19,7 @@ class AgentState(TypedDict):
     tweet_text: Optional[str]
     user: Optional[str]
     timestamp: Optional[str]
-    post_date: Optional[str] # Added this field
+    post_date: Optional[str]
     metrics: Optional[Dict[str, Any]]
     
     # Analysis from Monitor Agent
@@ -32,6 +33,15 @@ class AgentState(TypedDict):
     search_queries: Optional[List[str]]
     search_results: Optional[List[str]]
     final_dossier: Optional[Dict[str, Any]]
+
+    # Data from Verifier Agent
+    truth_score: Optional[int]
+    verdict: Optional[str]
+    short_reasoning: Optional[str]
+    visual_class: Optional[str]
+    
+    # Data from Response Agent
+    generated_response: Optional[Dict[str, Any]]
 
 # --- Router ---
 def route_monitor_output(state: AgentState):
@@ -49,12 +59,11 @@ def route_monitor_output(state: AgentState):
 workflow = StateGraph(AgentState)
 
 # Add Nodes
-# "monitor_ingest" reads the data stream
 workflow.add_node("monitor_ingest", ingest_data)
-# "monitor_filter" analyzes the text for crisis
 workflow.add_node("monitor_filter", filter_content)
-# "cluster_node" performs the OSINT investigation
 workflow.add_node("cluster_node", cluster_node)
+workflow.add_node("verifier_agent_node", verifier_agent_node)
+workflow.add_node("response_agent_node", response_agent_node)
 
 # Set Entry Point
 workflow.set_entry_point("monitor_ingest")
@@ -73,8 +82,14 @@ workflow.add_conditional_edges(
     }
 )
 
-# 3. Cluster -> End
-workflow.add_edge("cluster_node", END)
+# 3. Cluster -> Verifier
+workflow.add_edge("cluster_node", "verifier_agent_node")
+
+# 4. Verifier -> Response
+workflow.add_edge("verifier_agent_node", "response_agent_node")
+
+# 5. Response -> End
+workflow.add_edge("response_agent_node", END)
 
 # Compile
 app = workflow.compile()
@@ -95,14 +110,16 @@ if __name__ == "__main__":
             
             # Optional: Print summary of the run
             if result.get("is_crisis"):
-                print("\n[System] \u2705 Workflow Completed: Crisis Dossier Generated.")
-                if result.get("final_dossier"):
-                    print(f"Dossier Conclusion: {result['final_dossier'].get('conclusion_hint', 'N/A')}")
+                print("\n[System] \u2705 Workflow Completed: Crisis Verified & Response Drafted.")
+                print(f"Verdict: {result.get('verdict')} (Score: {result.get('truth_score')})")
+                print(f"Reasoning: {result.get('short_reasoning')}")
+                if result.get("generated_response"):
+                    print(f"\n[Draft Tweet] \n{result['generated_response'].get('response_tweet')}")
             else:
                 print("\n[System] \u23ed Workflow Ended: Tweet Ignored.")
             
             # Wait a bit before the next tweet to make it readable
-            time.sleep(3)
+            time.sleep(5)
             
     except KeyboardInterrupt:
         print("\n[System] Simulation Stopped.")

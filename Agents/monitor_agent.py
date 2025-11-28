@@ -82,7 +82,7 @@ def filter_content(state: AgentState):
     
     # Initialize LLM
     llm = ChatGroq(
-        model="llama-3.3-70b-versatile", # Using a fast, capable model
+        model="llama-3.1-8b-instant", # Using a smaller, faster model to avoid rate limits
         temperature=0,
         api_key=GROQ_API_KEY
     )
